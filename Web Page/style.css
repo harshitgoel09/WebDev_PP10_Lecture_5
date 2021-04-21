@@ -1,0 +1,35 @@
+/* basic setup */
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+
+/*styling  */
+header{
+    display: flex;
+    /* vertically align */
+    align-items: center;
+    /* horizontly align */
+    justify-content: space-between;
+}
+ul{
+    display: flex;
+}
+.description{
+    display: flex;
+}
+h1{
+    font-weight: 450;
+}
+/* showcase class ke andar children ek image ha */
+.showcase img{
+    
+}
+
+
